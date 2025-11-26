@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="黑体">
+		<normal>com/github/avacloud/jasperreports/fonts/chinese/SourceHanSansCN-Regular.ttf</normal>
+		<bold></bold>
+		<italic></italic>
+		<boldItalic></boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+	<fontFamily name="宋体">
+		<normal>com/github/avacloud/jasperreports/fonts/chinese/SourceHanSerifCN-Regular.ttf</normal>
+		<bold></bold>
+		<italic></italic>
+		<boldItalic></boldItalic>
+		<pdfEncoding>Identity-H</pdfEncoding>
+		<pdfEmbedded>true</pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+</fontFamilies>
